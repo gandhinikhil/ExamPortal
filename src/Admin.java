@@ -8,7 +8,7 @@ import java.io.IOException;
 @WebServlet("/Admin")
 public class Admin extends HttpServlet {
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-       
+       //chnages
     }
 
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
